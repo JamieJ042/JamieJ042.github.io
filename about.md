@@ -1,6 +1,10 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
+description: Who am I?
 background: '/img/bg-about.jpg'
 ---
+
+## Education
+
+TBC
