@@ -23,3 +23,5 @@ Hello and welcome
 |:-----:|:------:|:----:|
 |Vizulate| March 2022 - December 2022| Junior Analyst |
 |Lloyds Banking Group| September 2023 - Present | Stress Testing Analyst |
+
+To be continued ....
