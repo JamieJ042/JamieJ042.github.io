@@ -6,7 +6,9 @@ background: '/img/bg-about.jpg'
 ---
 
 # Introduction
-
+<div style="float: left; border-radius: 50%; overflow: hidden; width: 100px; height: 100px;">
+  <img src="C:\Users\Public\Documents\JamieJ042.github.io\img\me.jpg" alt="Description" style="width: 100%; height: 100%; object-fit: cover;">
+</div>
 Hello there, I am Jamie Johnson, a data analyst progressing toward becoming a data scientist. Passionate about uncovering insights from complex datasets, I thrive on statistical modeling, machine learning, and data visualization to solve business challenges and optimize decision-making.  
 
 With a strong analytical mindset, I specialize in handling large-scale data processing, automating workflows, and collaborating cross-functionally to deliver impactful solutions. Living with IRLENS means I have to work harder on tasks that may come easier to others, but it has strengthened my adaptability and problem-solving skills—turning challenges into opportunities for growth.  
